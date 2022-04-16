@@ -16,7 +16,7 @@ class TwoSum {
         int target = 6;
 
         for (int i : twoSum(x, target)){
-            System.out.println(i);
+            System.out.println("Index: " + i);
         }
 
     }
